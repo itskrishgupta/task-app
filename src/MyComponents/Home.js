@@ -1,8 +1,6 @@
 import React from 'react';
 
-
-
-export const Home = () => {
+const Home = () => {
     let myStyle = {
         minHeight: "70vh",
         margin: "50px auto"
@@ -14,3 +12,5 @@ export const Home = () => {
         </div>
     )
 }
+
+export default Home;
