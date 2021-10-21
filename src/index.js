@@ -10,7 +10,7 @@ import reportWebVitals from './reportWebVitals'
 
 ReactDOM.render(
   <HashRouter>
-    <Header title="Task" />
+    <Header title="Task"  />
     <App />
     <Footer />
   </HashRouter>,
