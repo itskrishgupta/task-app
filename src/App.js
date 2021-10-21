@@ -7,10 +7,10 @@ function App() {
   return (
     <>
       <Switch>
-        <Route exact path="/task-app/#/">
+        <Route exact path="/">
           <Home />
         </Route>
-        <Route exact path="/task-app/#/setting">
+        <Route exact path="/settings">
           <Setting />
         </Route>
         <Route>Not Found</Route>
