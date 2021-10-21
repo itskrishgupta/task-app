@@ -8,7 +8,7 @@ const Home = () => {
 
     return ( 
         <div className="container" style={myStyle}>
-        <h1>Dashboard Page!!!</h1>
+        <h1>Dashboard Page!!!!!</h1>
         </div>
     )
 }
